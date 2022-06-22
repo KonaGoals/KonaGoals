@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KonaGoals
-- 👀 I’m interested in learning and adventures
-- 🌱 I’m currently learning how to become a successfull full stack developer
-- 💞️ I’m looking to collaborate on anything that'll challenge my knowledge, patience and creativity.
+- 👋 Le hello, I’m KonaGoals
+- 👀 DDE! Learning and le adventures
+- 🌱Doing everything to become a successfull full stack developer
+- 💞️ Trying collaborate on anything that'll challenge my knowledge, patience and creativity. Front end especially
 - 📫 How to reach me clandestineceltic@protonmail.com
 
 <!---
