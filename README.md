@@ -1,5 +1,7 @@
 I just want a house on a Kona mountain.
 
+New found motivation. Eat sleep code repeat.
+
 
 
 
